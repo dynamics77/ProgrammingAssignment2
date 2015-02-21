@@ -42,6 +42,3 @@ cacheSolve <- function(x, ...) {
 # a$get()
 # cacheSolve(a)     
 # cacheSolve(a)    #second time cached inv data should be outputted -unless matrix changed. 
-
-# a$set <-makeCacheMatrix()
-# a$set(matrix(2:8, 2, 2))
